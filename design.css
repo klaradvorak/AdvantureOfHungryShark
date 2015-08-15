@@ -1,0 +1,61 @@
+body{
+    background-image: url('foto/sharklogo.png');
+    background-size:1375px 650px;
+    background-repeat: no-repeat;
+    
+    font-family:Arial, 'Lucida Sans Unicode' ;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+horizontal-align:center;
+
+
+}
+ul{
+    width: 350px;
+    height:300px ;
+    horizontal-align:center;
+    vertical-align: center;
+    /*background: rgba(0,0,0,0.3);*/
+
+}
+li{
+    margin-top:25px ;
+    background: rgba(0,0,0,0.3);
+    position: relative;
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 120px;
+    padding: 5px;
+ horizontal-align:center;
+}
+li:hover{
+    color: deepskyblue;
+    cursor: pointer;
+}
+h3{
+    width: 300px;
+    height: 100px;
+    vertical-align: center;
+	horizontal-align:center;
+    color: red;
+}
+
+#start {
+position: absolute;
+    left: 350px;
+    top: 575px;
+}
+
+#help {
+position: absolute;
+    left: 515px;
+    top: 575px;
+}
+
+#about {
+position: absolute;
+    left: 615px;
+    top: 575px;
+
+}

@@ -1,0 +1,32 @@
+30/11/2013 by Pepe
+
+- Adjusted canvas size to 800 x 600 pixels
+- Made fishes and shark a bit smaller
+- Blended background edges to make scrolling look better
+- Everything scrolls now instead of just background
+- Shark does not reset anymore when it catches a fish
+- Added more comments to code
+- Shark image is now flipped when player presses left / right
+
+
+14/12/2013 by Sherif
+
+- Adding Background music + eating sound effect
+- Editing background image for good-looking looping/scrolling
+- Shark speeds up when Space Bar is pressed
+
+
+15/12/2013 by Pepe
+
+- Background music now stops when game ends
+- Background music now pauses when pause button is clicked and continues when resume is clicked
+- Readjusted text-positions to make more room to canvas
+- Added "Level 1" text to top right corner
+
+
+
+TO DO:
+
+- Display answers to questions inside fish
+
+//////////////////////////////////////////////////////////////////

@@ -1,0 +1,5 @@
+- bonus fish should be declared and loaded
+- drawing in canvas
+- drawing in canvas in a specific time
+- fish and bonusFish should not overlap 
+- when bonus fish is caught, 10 seconds extra is given to the player.

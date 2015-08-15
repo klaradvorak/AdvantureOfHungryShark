@@ -1,0 +1,32 @@
+body{
+background-size:1375px 650px;
+}
+#play-again {  
+   position: absolute;
+    left: 367px;
+    top: 20px;
+	border-style:solid;
+border-color:#0000ff;
+    font-size:14px;
+    font-weight:700;
+}
+
+#pause-button {  
+    position: absolute;
+    left: 567px;
+    top: 20px;
+	border-style:solid;
+border-color:#0000ff;
+    font-size:14px;
+    font-weight:700;
+}
+
+#mute-button {  
+   position: absolute;
+    left: 767px;
+    top: 20px;
+	border-style:solid;
+border-color:#0000ff;
+    font-size:14px;
+    font-weight:700;
+}
